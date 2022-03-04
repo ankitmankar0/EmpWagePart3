@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\bin\Debug\net5.0\classmethod.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\bin\Debug\net5.0\classmethod.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\bin\Debug\net5.0\classmethod.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\bin\Debug\net5.0\classmethod.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\bin\Debug\net5.0\classmethod.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\bin\Debug\net5.0\classmethod.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\obj\Debug\net5.0\classmethod.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\obj\Debug\net5.0\classmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\obj\Debug\net5.0\classmethod.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\obj\Debug\net5.0\classmethod.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\obj\Debug\net5.0\classmethod.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\obj\Debug\net5.0\classmethod.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\obj\Debug\net5.0\refint\classmethod.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\obj\Debug\net5.0\classmethod.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\obj\Debug\net5.0\classmethod.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\classmethod\classmethod\obj\Debug\net5.0\ref\classmethod.dll

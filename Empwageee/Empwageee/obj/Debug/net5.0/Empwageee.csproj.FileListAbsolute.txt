@@ -1,0 +1,5 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\Empwageee\Empwageee\obj\Debug\net5.0\Empwageee.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\Empwageee\Empwageee\obj\Debug\net5.0\Empwageee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\Empwageee\Empwageee\obj\Debug\net5.0\Empwageee.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\Empwageee\Empwageee\obj\Debug\net5.0\Empwageee.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\Empwageee\Empwageee\obj\Debug\net5.0\Empwageee.csproj.CoreCompileInputs.cache
