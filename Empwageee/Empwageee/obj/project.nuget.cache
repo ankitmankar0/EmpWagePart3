@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "a20M4uWoUyukylgBiv4PueOZkQCecYKFdUfKRUJLuFR7RXRFnZN3vtMU69YU9g5WCLVaXutFII2VMynXvRhlnA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\Day 10\\Emp\\Empwageee\\Empwageee\\Empwageee.csproj",
+=======
+  "dgSpecHash": "rJh7FD8xXkzRmHgQsxne/ih7iqgrixRQLgx8zDA5Yye4u1nUJyidQGiAMkn4F1jYOjMT2vBbIBmA4ClPhDwEHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\EmpWagePart3\\Empwageee\\Empwageee\\Empwageee.csproj",
+>>>>>>> 61b277f6979896c99267cb61cfa6e3f19f9e8b2b
   "expectedPackageFiles": [],
   "logs": []
 }

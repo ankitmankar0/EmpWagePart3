@@ -1,31 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\Day 10\\Emp\\Empwageee\\Empwageee\\Empwageee.csproj": {}
+    "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\EmpWagePart3\\classmethod\\classmethod\\classmethod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\Day 10\\Emp\\Empwageee\\Empwageee\\Empwageee.csproj": {
+    "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\EmpWagePart3\\classmethod\\classmethod\\classmethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\Day 10\\Emp\\Empwageee\\Empwageee\\Empwageee.csproj",
-        "projectName": "Empwageee",
-        "projectPath": "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\Day 10\\Emp\\Empwageee\\Empwageee\\Empwageee.csproj",
+        "projectUniqueName": "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\EmpWagePart3\\classmethod\\classmethod\\classmethod.csproj",
+        "projectName": "classmethod",
+        "projectPath": "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\EmpWagePart3\\classmethod\\classmethod\\classmethod.csproj",
         "packagesPath": "C:\\Users\\ankit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\Day 10\\Emp\\Empwageee\\Empwageee\\obj\\",
-=======
-    "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\EmpWagePart3\\Empwageee\\Empwageee\\Empwageee.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\EmpWagePart3\\Empwageee\\Empwageee\\Empwageee.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\EmpWagePart3\\Empwageee\\Empwageee\\Empwageee.csproj",
-        "projectName": "Empwageee",
-        "projectPath": "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\EmpWagePart3\\Empwageee\\Empwageee\\Empwageee.csproj",
-        "packagesPath": "C:\\Users\\ankit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\EmpWagePart3\\Empwageee\\Empwageee\\obj\\",
->>>>>>> 61b277f6979896c99267cb61cfa6e3f19f9e8b2b
+        "outputPath": "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\EmpWagePart3\\classmethod\\classmethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ankit\\AppData\\Roaming\\NuGet\\NuGet.Config",

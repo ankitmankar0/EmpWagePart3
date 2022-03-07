@@ -45,7 +45,11 @@ namespace EmployeeWages
         //Declaring Constant Variable
         public const int FULL_TIME = 1;
         public const int PART_TIME = 2;
+<<<<<<< HEAD
 
+=======
+        
+>>>>>>> 61b277f6979896c99267cb61cfa6e3f19f9e8b2b
         private LinkedList<CompanyEmpWage> companyEmpWageList;
         private Dictionary<string, CompanyEmpWage> companyToEmpWageMap;
         public EmpWageBuilder()
@@ -67,12 +71,17 @@ namespace EmployeeWages
         {
             foreach (CompanyEmpWage companyEmpWage in this.companyEmpWageList)
             {
+<<<<<<< HEAD
                 companyEmpWage.setTotalEmpWage(this.ComputeEmpWage(companyEmpWage));
+=======
+                companyEmpWage.setTotalEmpWage(this.computeEmpWage(companyEmpWage));
+>>>>>>> 61b277f6979896c99267cb61cfa6e3f19f9e8b2b
                 Console.WriteLine(companyEmpWage.toString());
 
             }
 
         }
+<<<<<<< HEAD
         private int ComputeEmpWage(CompanyEmpWage companyEmpWage)
         { }
 
@@ -81,6 +90,15 @@ namespace EmployeeWages
                 return this.companyToEmpWageMap[compnay].totalEmpWage;
             }
          
+=======
+        private int computeEmpWage (CompanyEmpWage companyEmpWage)
+
+
+             public int getTotalWage(string compnay)
+        {
+            return this.companyToEmpWageMap[compnay].totalEmpWage;
+        }
+>>>>>>> 61b277f6979896c99267cb61cfa6e3f19f9e8b2b
     }
     class Program
     {

@@ -6,9 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Empwageee
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\ankit\Desktop\bridgelab\.Net\Day 10\Emp\Empwageee\Empwageee\
-=======
-build_property.ProjectDir = C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\Empwageee\Empwageee\
->>>>>>> 61b277f6979896c99267cb61cfa6e3f19f9e8b2b
+build_property.RootNamespace = line_comparison
+build_property.ProjectDir = C:\Users\ankit\Desktop\bridgelab\.Net\EmpWagePart3\line comparison\line comparison\
