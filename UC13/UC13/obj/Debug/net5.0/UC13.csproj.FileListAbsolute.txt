@@ -1,0 +1,5 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 10\Emp\UC13\UC13\obj\Debug\net5.0\UC13.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 10\Emp\UC13\UC13\obj\Debug\net5.0\UC13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 10\Emp\UC13\UC13\obj\Debug\net5.0\UC13.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 10\Emp\UC13\UC13\obj\Debug\net5.0\UC13.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 10\Emp\UC13\UC13\obj\Debug\net5.0\UC13.csproj.CoreCompileInputs.cache
